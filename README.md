@@ -14,6 +14,7 @@ I am an experienced software developer with more than 20 years of experience in 
 * Experience in design distributed applications using a microservices architecture.
 * Good pieces of knowledge of algorithms.
 * Big experience in architecture and design of real applications from UI-based applications to high-performance distributed servers.
+* Good knowledges in embedded systems and microcontrollers
 
 ## Pet projects
 * Smart house automation using MQTT events protocol. Based on Arduino and STM microcontrollers and the wide area of sensors.
