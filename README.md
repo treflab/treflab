@@ -7,7 +7,7 @@ I am an experienced software developer with more than 20 years of experience in 
 * MySQL, PostgreSQL, MongoDB, RabbitMQ - databases and queue managers.
 * C++ libs and frameworks: STL, C++11, C++14, C++17, Boost, QT, libevent.
 * Python frameworks and packages: Django, Scrapy, Celery, Twisted, OpenCV.
-* Windows and Linux UI and system programming.
+* Windows and Linux UI and system programming, including embedded systems.
 
 ## Key Points
 * Good bits of knowledge of design patterns and experience of using them in real projects.
